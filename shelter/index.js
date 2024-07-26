@@ -1,0 +1,1 @@
+console.log("1.score 2\n overal:60")
